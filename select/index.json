@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "スマイリーを探して",
+  "base_artist": "Serani Poji",
+  "createdAt": "2025-12-02T13:02:29.189049Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "スマイリーを探して",
+      "artist": "Serani Poji",
+      "has_synced": true,
+      "path": "select/01_スマイリーを探して_Serani_Poji.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "スマイリーを探して [Where Is Smiley?]",
+      "artist": "セラニポージ (Serani Poji)",
+      "has_synced": true,
+      "path": "select/02_スマイリーを探して_[Where_Is_Smiley_]_セラニポージ_(Serani_Poji).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "スマイリーを探して",
+      "artist": "Serani Poji",
+      "has_synced": true,
+      "path": "select/03_スマイリーを探して_Serani_Poji.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "スマイリーを探して - where is smiley?",
+      "artist": "Serani Poji",
+      "has_synced": true,
+      "path": "select/04_スマイリーを探して_-_where_is_smiley_Serani_Poji.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "スマイリーを探して (Paused)",
+      "artist": "Serani Poji",
+      "has_synced": true,
+      "path": "select/05_スマイリーを探して_(Paused)_Serani_Poji.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "スマイリーを探して",
+      "artist": "Serani Poji",
+      "has_synced": false,
+      "path": "select/pl_01_スマイリーを探して_Serani_Poji.txt"
+    }
+  ]
+}
